@@ -7,8 +7,8 @@ Welcome to the Smart Console Bank System! This project is designed to simulate a
 - Create new bank accounts 🆕
 - Deposit and withdraw money 💵
 - Check account balance 💰
-- Transfer funds between accounts 🔄
-- View transaction history 📜
+- create users 🔄
+- control different user permesions📜
 
 ## Getting Started 🚀
 
