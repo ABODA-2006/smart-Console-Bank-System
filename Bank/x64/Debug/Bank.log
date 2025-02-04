@@ -1,0 +1,11 @@
+﻿  Source.cpp
+E:\programming\projects\Bank\Bank\Header.h(73,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\programming\projects\Bank\Bank\Header.h(135,7): warning C4101: 'ClientPos': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+E:\programming\projects\Bank\Bank\Source.cpp(36,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\programming\projects\Bank\Bank\Source.cpp(158,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\programming\projects\Bank\Bank\Header.h(434,1): warning C4715: 'Lib::SaveFileContentToString': not all control paths return a value
+  Bank.vcxproj -> E:\programming\projects\Bank\x64\Debug\Bank.exe
