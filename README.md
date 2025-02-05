@@ -23,4 +23,4 @@ Welcome to the Smart Console Bank System! This project is designed to simulate a
    ```bash
    git clone https://github.com/ABODA-2006/smart-Console-Bank-System.git
 or download the rared folder of project and you can go to x64/Debug > Bank.exe and run 
-see the explanation https://www.linkedin.com/feed/update/urn:li:ugcPost:7292526406515752960/
+[see the explanation https://www.linkedin.com/feed/update/urn:li:activity:7292530879451586560/)
